@@ -223,6 +223,8 @@ export default function Index() {
           title="Set Goals"
           subtitle="Define daily focus goals"
         />
+
+        <View className="h-48" />
       </ScrollView>
     </SafeAreaView>
   );
