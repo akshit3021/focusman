@@ -1,9 +1,9 @@
 import { Tabs } from "expo-router";
 import {
-    HouseIcon,
-    MusicNoteIcon,
-    NoteIcon,
-    TrendUpIcon,
+  HouseIcon,
+  MusicNoteIcon,
+  NoteIcon,
+  TrendUpIcon,
 } from "phosphor-react-native";
 
 export default function TabLayout() {
